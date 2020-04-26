@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "testing.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
-    "test": "node testing.js"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
