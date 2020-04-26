@@ -1,0 +1,23 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testing.js",
+  "scripts": {
+    "test": "node testing.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tranc99/sturdy-garbanzo.git"
+  },
+  "author": "Ten Mutunhire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tranc99/sturdy-garbanzo/issues"
+  },
+  "homepage": "https://github.com/tranc99/sturdy-garbanzo#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.2"
+  }
+}
